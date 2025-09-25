@@ -6,7 +6,7 @@ pipeline{
             // Define Docker Hub credentials ID
             DOCKERHUB_CREDENTIALS_ID = 'Docker_Hub'
             // Define Docker Hub repository name
-            DOCKERHUB_REPO = 'tarunip/livedemo_week6'
+            DOCKERHUB_REPO = 'tarunip/temperature_converter'
             // Define Docker image tag
             DOCKER_IMAGE_TAG = 'latest'
         }
