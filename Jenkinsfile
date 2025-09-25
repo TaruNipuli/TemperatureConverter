@@ -17,7 +17,7 @@ pipeline{
     stages{
         stage('checking'){
             steps{
-                git branch:'master', url:'https://github.com/ADirin/livedemo_week6_sep1.git'
+                git branch:'main', url:'https://github.com/TaruNipuli/TemperatureConverter.git'
             }
         }
 
