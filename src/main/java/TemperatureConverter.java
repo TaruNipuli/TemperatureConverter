@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class TemperatureConverter {
 
     public double fahrenheitToCelsius(int temperatureFahrenheit) {
